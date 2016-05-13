@@ -4,10 +4,7 @@
 npm install
 
 ## Usage
-npm start
-or if you use nodemon:
-nodemon
-
+"npm start" or if you use nodemon you can use just "nodemon"
 
 - Install babal-node globally or add full path to package.json (./node_modules/.bin/babel-node)
 
